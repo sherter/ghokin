@@ -437,6 +437,10 @@ func TestTransform(t *testing.T) {
 			"fixtures/escape-pipe.feature",
 		},
 		{
+			"fixtures/escape-newline.feature",
+			"fixtures/escape-newline.feature",
+		},
+		{
 			"fixtures/several-scenario-following.feature",
 			"fixtures/several-scenario-following.feature",
 		},
