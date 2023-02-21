@@ -441,6 +441,10 @@ func TestTransform(t *testing.T) {
 			"fixtures/escape-newline.feature",
 		},
 		{
+			"fixtures/table-with-non-ascii-characters.feature",
+			"fixtures/table-with-non-ascii-characters.feature",
+		},
+		{
 			"fixtures/several-scenario-following.feature",
 			"fixtures/several-scenario-following.feature",
 		},
